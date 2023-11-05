@@ -2,7 +2,7 @@
 EcoSounds is a startup that focuses on creating innovative musical instruments using sustainable materials, while promoting environmental awareness and cultural concepts.
 
 
-<h3>Ideas</h3>:
+<h3>Ideas</h3>
 
 > Sustainable Instrument Production: EcoSounds aims to design and manufacture musical instruments using sustainable materials like bamboo, reclaimed wood, recycled plastics, or bio-composites. This reduces the reliance on traditional materials like rare woods or metals, minimizing environmental impact.
 
